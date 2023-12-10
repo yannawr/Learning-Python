@@ -1,1 +1,1 @@
-﻿# Python Studies
+﻿# Learning Python
